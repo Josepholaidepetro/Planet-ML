@@ -1,4 +1,4 @@
-# Planet-ML
+# Planet: Understanding the Amazon from Space
 
 Here, a multi-label classification model was used to track the human footprint in the Amazon rainforest.
 
